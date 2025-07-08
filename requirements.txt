@@ -1,0 +1,43 @@
+# Core LangChain packages
+langchain-community==0.0.13
+langchain-core==0.1.12
+langchain-openai==0.0.5
+langchain-text-splitters==0.0.1
+
+# Streamlit and UI
+streamlit==1.29.0
+plotly==5.17.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+
+# PDF processing
+PyPDF2==3.0.1
+pypdf==3.17.4
+
+# Vector database
+chromadb==0.4.22
+
+# OpenAI API
+openai==1.6.1
+
+# Utilities
+PyYAML==6.0.1
+tqdm==4.66.1
+pathlib2==2.3.7
+
+# Optional: For enhanced PDF processing
+pdfplumber==0.10.3
+pymupdf==1.23.14
+
+# Optional: For additional document loaders
+python-docx==1.1.0
+openpyxl==3.1.2
+
+# Optional: For advanced text processing
+nltk==3.8.1
+spacy==3.7.2
+
+# System utilities
+python-dotenv==1.0.0
